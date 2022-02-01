@@ -12,10 +12,6 @@ a {
   color: aquamarine;
   font-size: 16px;
 }
-video {
-  
-  
-}
 
 footer {
   color: white;
@@ -23,6 +19,6 @@ footer {
   opacity: 0.3;
 }
 p {
-    color: gray;
-    font-size: 21px;
+  color: gray;
+  font-size: 21px;
 }
